@@ -35,10 +35,7 @@ Smart UAV 项目使用树莓派和pixhawk，目标是实现人脸识别和跟踪
 - 解决问题的文档记录(.md文件)
 - 代码实现效果
 
-## 整体框架
-![整体框架图](./img/General.JPG)
-
-## 其他注意事项（考虑到大家时间比较紧，以下良好习惯，大家以后再慢慢培养吧）
+## 其他注意事项
 ### Git的使用可参考
 - [猴子都能懂的git入门](https://backlog.com/git-tutorial/cn/)
 - [简明 Git 教程。浅显易懂，快速入门!](https://github.com/goto456/simple-git)
