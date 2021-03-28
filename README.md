@@ -1,10 +1,11 @@
-# Smart UAV project management
+# ProjectManagement
+Management history of the Intelligent Drone project
 
 ## 团队成果
 https://youtu.be/Q0t_XF92gAM
 
-## 关于Smart UAV
-Smart UAV 项目使用树莓派和pixhawk，目标是实现人脸识别和跟踪，二维码识别和跟踪以及通过语音进行简单的人机交互。
+## 关于Intelligent Drone
+Intelligent Drone 项目使用树莓派和pixhawk，目标是实现人脸识别和跟踪，二维码识别和跟踪以及通过语音进行简单的人机交互。
 
 团队指导老师：
 
@@ -19,7 +20,7 @@ Smart UAV 项目使用树莓派和pixhawk，目标是实现人脸识别和跟踪
 - 全佳璇
 
 ## 项目整体框架
-<img src="./img/outline.JPG" alt="drawing" width="800"/>
+<img src="./img/outline.JPG" alt="drawing" width="600"/>
 
 ## 团队目前进展和问题
 [Outcomes&Issues](./outcome&issue.md)
