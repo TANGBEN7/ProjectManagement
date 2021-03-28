@@ -20,7 +20,7 @@ Intelligent Drone 项目使用树莓派和pixhawk，目标是实现人脸识别�
 - 全佳璇
 
 ## 项目整体框架
-<img src="./img/outline.JPG" alt="drawing" width="600"/>
+<img src="./img/outline.JPG" alt="drawing" width="680"/>
 
 ## 团队目前进展和问题
 [Outcomes&Issues](./outcome&issue.md)
